@@ -1,0 +1,6 @@
+{
+  "name": "ECOMIND",
+  "description": "Smart Environmental Awareness & Interactive Infographic for Green Minds",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
